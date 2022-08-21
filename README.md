@@ -4,8 +4,8 @@
 ## Oi eu sou Erick Quintão
 <div align="center">
   <a href="https://github.com/ErickQuintao">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ErickQuintao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickQuintao&layout=compact&langs_count=7&theme=dark"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=ErickQuintao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickQuintao&layout=compact&langs_count=7&theme=dark"/>
      <a ><img src="https://i.picasion.com/pic92/e33c213b5562f8b60e873a0d8a1b2757.gif" width="125" height="150" border="0" alt="https://picasion.com/" /></a>
 </div>
 <div style="display: inline_block"><br>
