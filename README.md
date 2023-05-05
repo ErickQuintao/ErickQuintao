@@ -1,6 +1,6 @@
 
 - 🌱 Eu estou apredendo Java
-- 📫 Contate-me no email:erickquintao0@gmail.com
+- 📫 Contate-me no email:erickquintao@outlook.com
 ## Oi eu sou Erick Quintão
 <div align="center">
   <a href="https://github.com/ErickQuintao">
