@@ -1,5 +1,5 @@
 
-- 🌱 Eu estou apredendo Java
+- 🌱 Eu estou apredendo Java e C#
 - 📫 Contate-me no email:erickquintao@outlook.com
 ## Oi eu sou Erick Quintão
 <div align="center">
