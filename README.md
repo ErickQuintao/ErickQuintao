@@ -1,4 +1,9 @@
+- 🌱 Eu estou me especializando em Java 
+- 📫 Contate-me no email:erickquintao775@gmail.com
+## Oi eu sou Erick Quintão
 <div align="center">
+ <a ><img src="https://i.picasion.com/pic92/e33c213b5562f8b60e873a0d8a1b2757.gif" width="125" height="125" border="0" alt="https://picasion.com/" /></a>
+
   <a href="https://github.com/ErickQuintao">
     <img height="120em" src="https://github-readme-stats.vercel.app/api?username=ErickQuintao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickQuintao&layout=compact&langs_count=7&theme=dark"/>
