@@ -1,4 +1,4 @@
-- 🌱 Eu estou me especializando em Java 
+
 - 📫 Contate-me no email:erickquintao775@gmail.com
 ## Oi eu sou Erick Quintão
 <div align="center">
