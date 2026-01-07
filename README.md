@@ -22,6 +22,4 @@
 
 ---
 
-### 🐍 Snake 
-![Snake animation](https://raw.githubusercontent.com/ErickQuintao/ErickQuintao/output/github-contribution-grid-snake.gif)
 
